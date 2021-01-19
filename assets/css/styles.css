@@ -386,7 +386,7 @@ a:focus {
 }
 
 .hero-carousel .carousel-inner .item-1 {
-  background-image: url("../images/merc2.heic");
+  background-image: url("../images/merc4.heic");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -394,7 +394,7 @@ a:focus {
 }
 
 .hero-carousel .carousel-inner .item-2 {
-  background-image: url("../images/merc2.heic");
+  background-image: url("../images/merc3.heic");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
