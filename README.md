@@ -7,7 +7,7 @@
 
 
 ## Latest Version
-**v2.3** - 12 Oct 2020
+**v2.3** - 26 Jan 2021
 
 ## Features
 
