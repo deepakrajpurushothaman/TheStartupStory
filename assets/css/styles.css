@@ -386,7 +386,7 @@ a:focus {
 }
 
 .hero-carousel .carousel-inner .item-1 {
-  background-image: url("../images/F1.svg");
+  background-image: url("../images/paper-background.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
